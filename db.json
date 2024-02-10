@@ -1,147 +1,59 @@
 {
   "locations":[
     {
-      "id":1,
-      "name":"Arandis"
-    },
-    {
-      "id":2,
-      "name":"Aranos"
-    },
-    {
-      "id":3,
-      "name":"Eenhana"
-    },
-    {
       "id":4,
       "name":"Gobabis"
     },
     {
       "id":5,
-      "name":"Helao Nafidi"
-    },
-    {
-      "id":6,
-      "name":"Henties Bay"
-    },
-    {
-      "id":5,
-      "name":"Karasburg"
-    },
-    {
-      "id":7,
-      "name":"Karibib"
-    },
-    {
-      "id":8,
-      "name":"Karasburg"
-    },
-    {
-      "id":9,
       "name":"Katima Mulilo"
     },
     {
-      "id":10,
+      "id":6,
       "name":"Keetmanshoop"
     },
     {
-      "id":11,
-      "name":"Khorixas"
-    },
-    {
-      "id":12,
+      "id":7,
       "name":"Mariental"
     },
     {
-      "id":13,
-      "name":"Okahao"
-    },
-    {
-      "id":14,
+      "id":8,
       "name":"Okahandja"
     },
     {
-      "id":15,
-      "name":"Okakarara"
-    },
-    {
-      "id":16,
-      "name":"Okakarara"
-    },
-    {
-      "id":17,
-      "name":"Omaruru"
-    },
-    {
-      "id":18,
-      "name":"Omuthiya"
-    },
-    {
-      "id":19,
+      "id":9,
       "name":"Ondangwa"
     },
     {
-      "id":20,
+      "id":10,
       "name":"Ongwediva"
     },
     {
-      "id":21,
-      "name":"Opuwo"
-    },
-    {
-      "id":22,
+      "id":11,
       "name":"Oshakati"
     },
     {
-      "id":23,
-      "name":"Oshikuku"
-    },
-    {
-      "id":24,
-      "name":"Otavi"
-    },
-    {
-      "id":25,
+      "id":12,
       "name":"Otjiwarongo"
     },
     {
-      "id":26,
-      "name":"Outapi"
-    },
-    {
-      "id":27,
-      "name":"Outjo"
-    },
-    {
-      "id":28,
+      "id":13,
       "name":"Rehoboth"
     },
     {
-      "id":29,
-      "name":"Ruacan"
-    },
-    {
-      "id":30,
+      "id":14,
       "name":"Rundu"
     },
     {
-      "id":31,
+      "id":15,
       "name":"Swakopmund"
     },
     {
-      "id":32,
-      "name":"Tsumeb"
-    },
-    {
-      "id":33,
-      "name":"Usakos"
-    },
-    {
-      "id":34,
+      "id":16,
       "name":"Walvis Bay"
     },
     {
-      "id":35,
+      "id":17,
       "name":"Windhoek"
     }
   ],
