@@ -1,54 +1,9 @@
 {
   "terms":{
-    "id":1,
-    "content": "Terms and Conditions for Emergency Services Contact App
-
-Last Updated: 12 February 2024
-
-Welcome to our Emergency Services Contact App ("EmergencyCicle"). By using the App, you agree to comply with and be bound by the following terms and conditions. If you do not agree to these terms, please do not use the App.
-
-1. Acceptance of Terms
-
-By using the App, you acknowledge that you have read, understood, and agree to be bound by these terms and conditions. These terms may be updated from time to time, and it is your responsibility to review them periodically.
-
-2. Purpose of the App
-
-The App is designed to provide users with emergency services contact details based on their chosen town or city location. Users can also receive alerts, notifications, and announcements relevant to their selected location.
-
-3. User Privacy
-
-We do not require users to register to use the App. However, please review our Privacy Policy for information on how we collect, use, and protect your personal information.
-
-4. Location Services
-
-When launching the App for the first time, users will be prompted to select their location from a list of available towns or cities. The selected location will be used to provide accurate and relevant emergency services information.
-
-5. Alerts, Notifications, and Announcements
-
-Users may receive alerts, notifications, and announcements related to emergency services or important information for their chosen location. It is the user's responsibility to stay informed and act accordingly based on the received information.
-
-6. App Usage and Conduct
-
-Users agree to use the App for lawful purposes only. Any misuse, unauthorized access, or attempts to disrupt the functionality of the App may result in the termination of user access.
-
-7. Disclaimer of Liability
-
-While we strive to provide accurate and up-to-date information, we make no representations or warranties of any kind, express or implied, about the completeness, accuracy, reliability, or availability of the information provided through the App.
-
-8. Limitation of Liability
-
-In no event shall the App, its developers, or affiliated parties be liable for any indirect, incidental, special, consequential, or punitive damages arising out of or in connection with the use or inability to use the App.
-
-9. Termination of Access
-
-We reserve the right to terminate or suspend access to the App without prior notice for any reason, including, but not limited to, a violation of these terms and conditions.
-
-10. Governing Law
-
-These terms and conditions shall be governed by and construed in accordance with the laws of [Jurisdiction]. Any disputes arising from the use of the App shall be subject to the exclusive jurisdiction of the courts in [Jurisdiction].
-
-By using the App, you agree to these terms and conditions. If you have any questions or concerns, please contact us at gabrielkamenye@gmail.com.na"
-  }
+      "id":1,
+      "content": "Terms and Conditions for Emergency Services Contact App\n\nLast Updated: 12 February 2024\n\nWelcome to our Emergency Services Contact App (\"EmergencyCicle\"). By using the App, you agree to comply with and be bound by the following terms and conditions. If you do not agree to these terms, please do not use the App.\n\n1. Acceptance of Terms\n\nBy using the App, you acknowledge that you have read, understood, and agree to be bound by these terms and conditions. These terms may be updated from time to time, and it is your responsibility to review them periodically.\n\n2. Purpose of the App\n\nThe App is designed to provide users with emergency services contact details based on their chosen town or city location. Users can also receive alerts, notifications, and announcements relevant to their selected location.\n\n3. User Privacy\n\nWe do not require users to register to use the App. However, please review our Privacy Policy for information on how we collect, use, and protect your personal information.\n\n4. Location Services\n\nWhen launching the App for the first time, users will be prompted to select their location from a list of available towns or cities. The selected location will be used to provide accurate and relevant emergency services information.\n\n5. Alerts, Notifications, and Announcements\n\nUsers may receive alerts, notifications, and announcements related to emergency services or important information for their chosen location. It is the user's responsibility to stay informed and act accordingly based on the received information.\n\n6. App Usage and Conduct\n\nUsers agree to use the App for lawful purposes only. Any misuse, unauthorized access, or attempts to disrupt the functionality of the App may result in the termination of user access.\n\n7. Disclaimer of Liability\n\nWhile we strive to provide accurate and up-to-date information, we make no representations or warranties of any kind, express or implied, about the completeness, accuracy, reliability, or availability of the information provided through the App.\n\n8. Limitation of Liability\n\nIn no event shall the App, its developers, or affiliated parties be liable for any indirect, incidental, special, consequential, or punitive damages arising out of or in connection with the use or inability to use the App.\n\n9. Termination of Access\n\nWe reserve the right to terminate or suspend access to the App without prior notice for any reason, including, but not limited to, a violation of these terms and conditions.\n\n10. Governing Law\n\nThese terms and conditions shall be governed by and construed in accordance with the laws of [Jurisdiction]. Any disputes arising from the use of the App shall be subject to the exclusive jurisdiction of the courts in [Jurisdiction].\nBy using the App, you agree to these terms and conditions. If you have any questions or concerns, please contact us at gabrielkamenye@gmail.com.na",
+      "version": "1.0."
+    },
   "locations":[
     {
       "id":4,
