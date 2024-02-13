@@ -7,59 +7,73 @@
   "locations":[
     {
       "id":4,
-      "name":"Gobabis"
+      "name":"Gobabis",
+      "region": "Omaheke"
     },
     {
       "id":5,
-      "name":"Katima Mulilo"
+      "name":"Katima Mulilo",
+      "region": "Zambezi"
     },
     {
       "id":6,
-      "name":"Keetmanshoop"
+      "name":"Keetmanshoop",
+      "region": "Kara"
     },
     {
       "id":7,
-      "name":"Mariental"
+      "name":"Mariental",
+      "region": "Hardap"
     },
     {
       "id":8,
-      "name":"Okahandja"
+      "name":"Okahandja",
+      "region": "Otjozondjupa"
     },
     {
       "id":9,
-      "name":"Ondangwa"
+      "name":"Ondangwa",
+      "region": "Oshana"
     },
     {
       "id":10,
-      "name":"Ongwediva"
+      "name":"Ongwediva",
+      "region": "Oshana"
     },
     {
       "id":11,
-      "name":"Oshakati"
+      "name":"Oshakati",
+      "region": "Omusati"
     },
     {
       "id":12,
-      "name":"Otjiwarongo"
+      "name":"Otjiwarongo",
+      "region": "Otjozondjupa"
     },
     {
       "id":13,
-      "name":"Rehoboth"
+      "name":"Rehoboth",
+      "region": "Hardap"
     },
     {
       "id":14,
-      "name":"Rundu"
+      "name":"Rundu",
+      "region": "Kavango East"
     },
     {
       "id":15,
-      "name":"Swakopmund"
+      "name":"Swakopmund",
+      "region": "Erongo"
     },
     {
       "id":16,
-      "name":"Walvis Bay"
+      "name":"Walvis Bay",
+      "region": "Erongo"
     },
     {
       "id":17,
-      "name":"Windhoek"
+      "name":"Windhoek",
+      "region": "Khomas"
     }
   ],
   "categories":[
